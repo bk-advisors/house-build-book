@@ -1,136 +1,116 @@
 ---
-title: <span style="color:white">The Skyhook and the Infinite Game</span>
-subtitle: "How Kareem Abdul-Jabbar built a legacy by mastering the unmasterable"
-
-author: 
-- name: "King Matayo"
-  email: kingmatayo.thefirst@gmail.com
-date: 12/17/2024
-
-title-block-banner: ./assets/kareem.jpg
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
+title: "Chapter 9 - Finishings"
+subtitle: "'The details are not the details. They make the design.' --- Charles Eames"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
+date: 02/15/2025
 ---
 
-```{r warning=FALSE, message=FALSE}
+You have laid the foundation, raised the walls, and put a roof over your head. The structure is standing. But a house is not yet a home until the finishings are done. This final phase of construction transforms a bare shell into a comfortable, functional, and beautiful living space. It is also the stage where many builders, exhausted by the long journey, make hasty decisions that they later regret.
 
-# Load required libraries
-library(tidyverse)
-library(BasketballAnalyzeR)
-library(nbastatR)
-library(ggimage)
-library(cropcircles)
-library(ggtext)
-library(glue)
-library(janitor)
-library(htmltools)
-library(gganimate)
-library(viridis)
+The finishings phase covers everything from plastering and painting to flooring, electrical fittings, plumbing fixtures, doors, windows, and the countless small details that make a house liveable. While the sub-structure and super-structure are about strength and durability, the finishings are about comfort, aesthetics, and daily functionality.
 
+![Interior finishing work in progress](https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=800){.chapter-illustration fig-alt="Interior of a house being finished with plastering and painting"}
 
-# Source functions
-source(file="./R/00-functions.R")
+The challenge with finishings is that they are deceptively expensive. Many first-time builders in Uganda budget heavily for the structural work but underestimate how much the finishings will cost. It is not uncommon for the finishings to consume 30--40% of the total building budget. If you are not prepared for this, you may find yourself living in a half-finished house for months---or even years---while you save up to complete the work.
 
+## Plastering and Rendering
 
-```
+Once the walls are up, they need to be plastered to create a smooth, even surface ready for painting. Plastering may seem straightforward, but the quality of this work has a direct impact on the final appearance of your home. Uneven plaster leads to uneven paint, visible patches, and an overall rough appearance.
 
-# Mastery of a Shot
+Auntie Barbara once supervised a project where the homeowner hired an inexperienced plasterer to save money. The walls looked acceptable at first, but within a few months, cracks appeared along the plaster lines and patches began flaking off. The homeowner had to strip the plaster and redo the entire job---at nearly double the original cost.
 
-At the heart of every great achievement is a simple truth: mastering one thing, done better than anyone else, can build something timeless. Kareem Abdul-Jabbar’s story is proof that innovation doesn’t have to look flashy, and consistency doesn’t have to shout to be heard.
+The lesson is clear: invest in a skilled plasterer and quality sand-cement mix. The time spent getting the walls right at this stage pays for itself in durability and appearance.
 
-It’s a quiet kind of genius, like water smoothing the edges of a rock—slow, deliberate, inevitable.
+## Flooring
 
-Kareem played 20 seasons in the NBA. His career stretched so far that by the end of it, teammates who once idolized him as kids were now feeding him passes in the paint. But it’s not just that he played for 20 years—it’s that he dominated for 20 years. At age 24, Kareem led the league in scoring. At age 38, he was still scoring 23 points a game, casually gliding up and down the court against players nearly half his age.
+The choice of flooring has a significant impact on both the cost and the feel of your home. In Uganda, the most common options include:
 
-The reason? A shot no one could stop.
+-   **Cement screed** --- the most affordable option, suitable for areas where budget is tight. It is durable but can feel cold and industrial.
 
-# The Shot That Couldn’t Be Stopped
+-   **Ceramic tiles** --- a popular middle-ground choice that offers a clean, modern look at a reasonable price. Tiles are easy to maintain and come in a wide variety of styles.
 
-If you want to understand why Kareem’s Skyhook was so unstoppable, you need to watch it the way you watch a magician perform a trick. It looked too simple to work. One step across the lane. A high-arcing flick of the wrist. The ball floated through the air and dropped through the net like it had been placed there. Every time.
+-   **Porcelain tiles** --- more expensive than ceramic but harder-wearing and water-resistant, making them ideal for bathrooms and kitchens.
 
-No player has had a shot so dependable, so unique, and so untouchable. Kareem didn’t invent the hook shot—others used it before him. But he perfected it. He shot it with a release so high that defenders felt like they were trying to block the moon. His 7’2” frame didn’t hurt either.
+-   **Terrazzo** --- a polished, composite material that is both durable and visually striking. Terrazzo is making a comeback in modern Ugandan homes for its blend of elegance and toughness.
 
-Here’s the thing about the Skyhook:
+Vincent, ever the practical builder, chose ceramic tiles for most of his house but splashed out on porcelain for the bathrooms. He told me that the extra cost was worth it---years later, the bathroom floors still look brand new, while a neighbour who used cheaper tiles has already had to replace several cracked ones.
 
--   It worked in every era. When defenses got bigger, it worked. When defenders got smarter, it worked.
+![Modern tiled flooring installation](https://images.unsplash.com/photo-1615873968403-89e068629265?w=800){.chapter-illustration fig-alt="Worker installing floor tiles in a modern house"}
 
--   It was efficient. Kareem’s field goal percentage—often in the 55% range—was lightyears ahead of his peers.
+## Electrical and Plumbing Installations
 
--   It was reliable. When his athleticism began to wane in his late 30s, the Skyhook didn’t age a day.
+This is one area where cutting corners can be genuinely dangerous. Faulty wiring can cause fires, and poor plumbing leads to leaks, water damage, and mould. Always hire certified professionals for electrical and plumbing work, even if it costs more upfront.
 
-*Placeholder for Analysis:*
+Key considerations include:
 
-*Shot charts show the Skyhook’s shooting percentage compared to other high-percentage shots, like dunks or layups. Kareem’s Skyhook wasn’t just effective; it was economical, like a move designed to last a thousand lifetimes.*
+-   **Plan your electrical layout carefully.** Think about where you will need sockets, switches, and lighting fixtures. It is far cheaper and easier to install wiring before the walls are plastered than to add it afterwards.
 
-# The Longevity of Greatness
+-   **Use quality wiring and fittings.** Substandard cables and switches may seem like a bargain, but they are a fire hazard and will need replacing sooner.
 
-Most careers are like fireworks: bright, fast, and over. Kareem’s was like a lighthouse. It shined for decades, steady and unwavering, no matter the storm.
+-   **Install a proper water system.** Whether you are connecting to the mains or using a borehole and tank, ensure the plumbing is done professionally. Consider installing water storage (overhead tanks) to manage supply interruptions, which are common in many parts of Uganda.
 
-By his late 30s, Kareem wasn’t supposed to be this good. Athletes slow down, bodies wear out, and younger players take over. But while others tried to rely on raw athleticism, Kareem relied on craft.
+-   **Think about drainage.** Proper drainage prevents waterlogging around your foundation and keeps your compound clean during the rainy season.
 
-He was a pioneer of longevity. Long before it was trendy for athletes to obsess over recovery, yoga, and nutrition, Kareem was doing it. Decades later, LeBron James, Tom Brady, and Serena Williams would build careers on the same principles Kareem lived by: consistency, preparation, and the humility to adapt.
+## Painting
 
-*Placeholder for Analysis:*
+A fresh coat of paint is what truly brings your house to life. The colours you choose will define the mood and character of each room.
 
-*Data shows Kareem’s production—points per game, efficiency ratings, and win shares—in his late 30s and 40s, compared to legends like Jordan, Duncan, and LeBron. Kareem didn’t just decline slower than others—he didn’t decline at all.*
+A few practical tips on painting:
 
-# Leadership You Don’t Hear, But You See
+-   **Apply a primer coat first.** This helps the paint adhere to the plaster and provides a uniform base, which means the topcoat goes on more smoothly and lasts longer.
 
-Kareem was not a loud leader. He didn’t shout at teammates or throw fists at lockers. He led the way quiet people do: by example. Show up. Do the work. Repeat.
+-   **Use exterior-grade paint outside.** Exterior walls are exposed to sun, rain, and dust. Investing in quality exterior paint will save you from having to repaint every year or two.
 
-Teammates knew Kareem as steady. He didn’t panic. He didn’t grandstand. In the middle of championship runs, his presence alone felt like a guarantee: We’ll be fine. I’ve been here before.
+-   **Don't rush.** Allow each coat to dry fully before applying the next. Two to three coats are usually needed for a lasting finish.
 
-What he lacked in vocal fireworks, he made up for in quiet certainty. Leadership, after all, isn’t about how many words you say. It’s about how many people believe you can carry them through the hard parts. And Kareem could.
+## Doors, Windows, and Security
 
-# Innovation That Stood the Test of Time
+The doors and windows you choose affect ventilation, natural light, security, and the overall look of your home. In Uganda, the most common options are:
 
-We think of innovation as invention—something new that no one’s ever seen before. But sometimes, innovation is perfecting something old. Kareem didn’t need a new move. He just needed a move that no one else could use.
+-   **Wooden doors and window frames** --- traditional and warm in appearance, but they require regular maintenance (varnishing, treatment against termites).
 
-There’s a lesson in that. If you want to stand out, don’t reinvent the wheel. Just make sure your wheel is stronger, faster, and smoother than everyone else’s.
+-   **Metal doors and window frames** --- more durable and secure, lower maintenance, but can feel less homely.
 
-Kareem’s Skyhook didn’t just score points. It scored points for 20 years.
+-   **Aluminium sliding windows** --- increasingly popular in modern builds. They are lightweight, rust-resistant, and allow maximum light and ventilation.
 
-*Placeholder for Analysis:*
+Security is a top concern for many homeowners. Consider installing burglar-proof grilles on windows and reinforced doors at entry points. These additions may add to your costs but provide invaluable peace of mind.
 
-*Comparisons of how defensive schemes evolved in the NBA and how Kareem’s Skyhook remained effective regardless of the era. Innovation, when done right, is timeless.*
+## The Compound and External Works
 
-# The Infinite Game
+The finishings do not end at your front door. The area surrounding your house---the compound---also needs attention:
 
-Kareem Abdul-Jabbar’s greatness didn’t happen overnight. It wasn’t a product of luck, or one magical season, or one championship. It was the slow accumulation of skill, refinement, and discipline over decades. He kept playing the game long after others quit, and he played it better than anyone.
+-   **Fencing and gates** --- define your property boundaries, provide privacy, and enhance security.
 
-Most players play for stats. Some play for championships. Kareem played a game beyond all of that. He built a legacy that will outlast him. He built a story worth telling.
+-   **Landscaping** --- even simple grass planting and a few trees can dramatically improve the appearance and value of your property.
 
-The Skyhook may be a basketball move, but the lesson it teaches is universal:
+-   **Drainage channels** --- direct rainwater away from your foundation and prevent flooding in the compound.
 
--   Innovate, but don’t overcomplicate.
+-   **Walkways and parking** --- paved or murram paths and a simple parking area make daily life more convenient, especially during the rainy season.
 
--   Master one thing, and master it completely.
+## Practical Tips -- Chapter 9
 
--   Stay consistent. Stay relevant. Stay timeless.
+::: {.callout-tip}
+## Key Takeaways
 
-Kareem played basketball, but he was never playing for today. He was playing for forever.
+-   **Budget generously for finishings.** Plan for finishings to cost 30--40% of your total build budget. Running out of money at this stage is one of the most common reasons houses remain incomplete.
 
-And forever is what he got.
+-   **Prioritise safety.** Always use certified professionals for electrical and plumbing work. This is not the place to economise.
 
-# Closing Thought
+-   **Finish in phases if needed.** If your budget is tight, focus first on the essentials---plastering, flooring, wiring, plumbing, and a basic paint job. Decorative finishes can come later.
 
-Kareem Abdul-Jabbar didn’t leave basketball. Basketball left Kareem. And when it did, he left something behind that no one has matched since—a signature shot, a career, and a legacy built to last.
+-   **Choose materials suited to your climate.** Uganda's tropical climate means high humidity and heavy rains. Select materials that can handle moisture and temperature changes.
 
-When you’re playing the infinite game, that’s all that really matters.
+-   **Don't forget the compound.** A well-finished house on an unkempt plot loses much of its appeal. Budget for basic external works like fencing, drainage, and landscaping.
+:::
+
+The finishings phase is where your vision finally becomes reality. After months---sometimes years---of planning, saving, and building, you are now putting the final touches on a place you can truly call home. Take your time, make thoughtful choices, and remember: the details matter. They are what transform a structure into a home that you and your family will enjoy for generations.
 
 ------------------------------------------------------------------------
 
-# Sources:
+# Sources
 
-To Be Included...
+-   Uganda Bureau of Statistics (UBOS). *Statistical Abstract 2023*. Available at: [ubos.org](https://www.ubos.org)
+
+-   National Building Review Board, Uganda. *Building Control Regulations*. Ministry of Works and Transport.

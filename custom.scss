@@ -1,0 +1,81 @@
+/*-- scss:defaults --*/
+$primary: #69b3a2;
+$link-color: #69b3a2;
+$font-family-sans-serif: "Segoe UI", Arial, sans-serif;
+$body-color: #333;
+
+/*-- scss:rules --*/
+
+/* Title banner styling */
+.quarto-title-banner {
+  background-color: black;
+}
+
+.quarto-title-banner .title {
+  color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.quarto-title-banner .subtitle {
+  color: white;
+  font-style: italic;
+}
+
+/* TOC active link styling */
+.sidebar nav[role=doc-toc] ul > li > a.active,
+.sidebar nav[role=doc-toc] ul > li > ul > li > a.active {
+  border-left: 1px solid $primary;
+  color: $primary !important;
+}
+
+/* Heading spacing */
+h1 {
+  padding-top: 10px;
+}
+
+h2, h3 {
+  padding-top: 20px;
+}
+
+/* Callout styling */
+.callout {
+  border-radius: 0;
+}
+
+/* Chapter illustration images */
+.chapter-illustration {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Tip boxes */
+.practical-tips {
+  background-color: #f0faf7;
+  border-left: 4px solid $primary;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.practical-tips h3 {
+  color: darken($primary, 10%);
+  padding-top: 0;
+}
+
+/* Part divider pages */
+.part-page {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.part-page p {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 1rem auto;
+  color: #555;
+}

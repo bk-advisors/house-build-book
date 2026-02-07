@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Modern House Building in Africa 101"
+  subtitle: "A Practical Guide with Cost-Saving Tips & Lessons from Uganda"
+  author: "Matthew Kuch"
+  date: "2025"
+  reader-mode: true
+  page-navigation: true
+  search: true
+  repo-url: https://github.com/bk-advisors/house-build-book
+  chapters:
+    - index.qmd
+    - 13-preface/index.qmd
+    - 14-intro/index.qmd
+    - part: "Part 1: The Vision"
+      chapters:
+        - 1-imagination/index.qmd
+        - 2-research/index.qmd
+        - 3-resources/index.qmd
+    - part: "Part 2: The Money"
+      chapters:
+        - 4-savings/index.qmd
+        - 5-loans/index.qmd
+        - 6-family/index.qmd
+    - part: "Part 3: The Building"
+      chapters:
+        - 7-sub/index.qmd
+        - 8-super/index.qmd
+        - 9-finishings/index.qmd
+    - 15-about/index.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    css: custom.css
+    toc: true
+    toc-location: left
+    number-sections: false
+    fig-cap-location: margin
+    title-block-banner: true
+    title-block-banner-color: "black"

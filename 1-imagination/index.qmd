@@ -1,94 +1,82 @@
 ---
-title: <span style="color:white">Chapter 1 - Imagination</span>
-subtitle: "'Imagination is more important than knowledge' - Albert Einstein"
-
-author: 
-- name: "Matthew Kuch"
-  email: kuch.matthew@gmail.com
-date: 01/16/2024
-
-title-block-banner: true
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
+title: "Chapter 1 - Imagination"
+subtitle: "'Imagination is more important than knowledge.' --- Albert Einstein"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
+date: 01/16/2025
 ---
 
 Everything in life starts as an idea in your mind, and your house is no different.
 
-You must imagine, in as much detail as you can, where you want to build and how you want your house to look like before you lay a single brick.
+You must imagine, in as much detail as you can, where you want to build and how you want your house to look before you lay a single brick.
 
-The challenge with imagination is that sometimes we do not know the limits or boundaries for our imaginings. Also, sometimes we dream up ideas that are not feasible for our context and pockets.
+The challenge with imagination is that sometimes we do not know the limits or boundaries of our dreams. We may conjure up ideas that are not feasible for our context or our pockets.
 
-In this first chapter, I provide a practical list of things to consider as you begin to nurture that germ of an idea, that is your ideal house.
+In this first chapter, I provide a practical list of things to consider as you begin to nurture that germ of an idea that is your ideal house.
 
 ![Imagination Mind Map](assets/Imagination_mindmap_Ch1.jpg)
 
-In order of priority, there are 3 main considerations as you imagine your ideal house:
+In order of priority, there are three main considerations as you imagine your ideal house:
 
 1.  Location
-
 2.  Size
-
 3.  Type
 
-### Location, Location, Location
+## Location, Location, Location
 
-It is more practical to try and visualize a location first before one imagines the house, because our grand imagination for the building - may not fit the plot of land it will sit on.
+It is more practical to visualise a location first, before you imagine the house itself, because your grand vision for the building may not fit the plot of land it will sit on.
 
-For instance, depending on whether you plan to build in a rural or urban area will play a big role in how big the available land size you require to place your dream house. In addition, the price of land in these different locations (rural vs urban) is also a key factor in determining how much you will have left to spend on the actual building.
+Whether you plan to build in a rural or urban area will play a big role in the size of land available to you. In addition, the price of land in these different locations is a key factor in determining how much you will have left to spend on the actual building.
 
 ![Rural vs Urban Location](assets/RuralVsUrban_Chart_Ch1.jpg)
 
-I’ve known my friend Vincent for many years – he is an ambitious, but practical man. Over the years, Vincent has built three houses for both residential and commercial use.
+I have known my friend Vincent for many years---he is an ambitious but practical man. Over the years, Vincent has built three houses for both residential and commercial use.
 
-When he was starting out, he had dreams of building his first house in Kampala, the capital city, but he later had to reconsider this, when he realized how much more expensive land was, as you get closer to the city center. He ended up having to explore cheaper options outside the city, in neighboring districts of Wakiso, Mukono and Luwero.
+When he was starting out, he dreamed of building his first house in Kampala, the capital city. But he had to reconsider when he realised how much more expensive land becomes the closer you get to the city centre. He ended up exploring cheaper options outside the city, in the neighbouring districts of Wakiso, Mukono, and Luwero.
 
 ![Is Land Affordable?](assets/FlowChart_IsLandAffordable.png)
 
-The location you choose will also impact the prices of common building materials e.g. sand, stones, timber etc… so keep that in mind. In addition, the distance your site is from the main road or key amenities or utilities should also be considered.
+![A developing residential area on the outskirts of Kampala](https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=800){.chapter-illustration fig-alt="Residential houses in a developing neighbourhood"}
 
-### Land size matters
+The location you choose will also affect the prices of common building materials---sand, stones, timber, and so on---so keep that in mind. In addition, consider how far your site is from the main road and key amenities or utilities.
 
-Once you have completed imagining the location for your house, the next step is to visualize the size. How much space you think you will need is key and depends on your individual values and needs.
+## Land Size Matters
 
-Vincent, being a father of three young children, envisioned a spacious compound where his kids could play freely and safely. He knew that having ample outdoor space would be essential for his growing family. On the other hand, a single person with no plans to start a family would likely choose to build on a smaller sized plot, just enough to suit his or her personal preferences.
+Once you have settled on a location, the next step is to think about size. How much space you need depends on your individual values and circumstances.
+
+Vincent, being a father of three young children, envisioned a spacious compound where his kids could play freely and safely. He knew that ample outdoor space would be essential for his growing family. On the other hand, a single person with no plans to start a family might choose a smaller plot, just enough to suit their personal preferences.
 
 ![Do you have a family?](assets/DoYouHaveFamily_FlowChart.excalidraw.png)
 
-### So many types
+## So Many Types
 
-After you have a better sense of the location and size of your plot, now is the time to dream about the building itself. There are so many different types of houses out there, and a simple Google search can reveal to you all of the many options and configurations you have at your disposal e.g. cabin, bungalow, apartments etc …
+After you have a better sense of the location and size of your plot, now is the time to dream about the building itself. There are many different types of houses, and a simple search online can reveal the options and configurations available to you---cabins, bungalows, apartments, and more.
 
-The decision on which type of house largely depends on the individual’s own tastes and budget, which will vary from person to person. Hence as you visualize your own house make sure it is unique to you and I do not recommend you just copy and paste your neighbor’s vision, however tantalizing it may be.
+The decision on which type of house to build largely depends on your own tastes and budget, which will vary from person to person. As you visualise your own house, make sure the design is unique to you. I do not recommend simply copying your neighbour's vision, however tempting it may be.
 
 ![So many types](assets/So_many_types_Ch1.jpg)
 
-### Practical Tips – Chapter 1:
+![A modern bungalow design common in East Africa](https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800){.chapter-illustration fig-alt="Modern bungalow house with clean architectural lines"}
 
-1.  Create a notebook (hard or soft copy) to write and store all your thoughts about your dream house detailing the ideal location, size and type you want
+## Practical Tips -- Chapter 1
 
-2.  Visit the proposed location, where you plan to build, to get familiar with the surroundings and environment of your future house. More often than not, the type of home you build will be dictated by the geography or typography – so get familiar with it.
+::: {.callout-tip}
+## Key Takeaways
 
-By taking the time to exercise your imagination you’ll get those creative juices flowing. Building a house is an art form, before it is a science.
+1.  **Create a notebook** (hard or soft copy) to write and store all your thoughts about your dream house, detailing the ideal location, size, and type you want.
+
+2.  **Visit the proposed location** where you plan to build to familiarise yourself with the surroundings and environment. More often than not, the type of home you build will be influenced by the geography and topography---so get to know the land.
+:::
+
+By taking the time to exercise your imagination, you will get those creative juices flowing. Building a house is an art form before it is a science.
 
 ------------------------------------------------------------------------
 
-# References/Sources/Citations:
+# Sources
 
--   Zsviczian, Z., 2025. *Obsidian Excalidraw Plugin*. Available at: <https://github.com/zsviczian/obsidian-excalidraw-plugin> \[Accessed 18 Jan. 2025\]
+-   Zsviczian, Z., 2025. *Obsidian Excalidraw Plugin*. Available at: <https://github.com/zsviczian/obsidian-excalidraw-plugin> [Accessed 18 Jan. 2025]
 
--   Mermaid.js, 2025. *Mermaid.js Documentation*. Available at: https://mermaid-js.github.io/ \[Accessed 18 Jan. 2025\].
+-   Mermaid.js, 2025. *Mermaid.js Documentation*. Available at: <https://mermaid-js.github.io/> [Accessed 18 Jan. 2025]
 
--   RStudio, 2025. *RStudio Integrated Development Environment for R*. Posit Software, PBC. Available at: https://posit.co/products/open-source/rstudio/ \[Accessed 18 Jan. 2025\]
-
--   Quarto, 2025. *Quarto: Open-source Scientific and Technical Publishing*. Available at: <https://quarto.org/> \[Accessed 18 Jan. 2025\]
+-   Quarto, 2025. *Quarto: Open-source Scientific and Technical Publishing*. Available at: <https://quarto.org/> [Accessed 18 Jan. 2025]

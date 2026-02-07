@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\HP\\\\Desktop\\\\Parking Lot\\\\1 Frequently Used\\\\Web Projects\\\\bk-github\\\\claude-code-projects\\\\house-build-book\" log --oneline -10)",
+      "Bash(git -C \"c:\\\\Users\\\\HP\\\\Desktop\\\\Parking Lot\\\\1 Frequently Used\\\\Web Projects\\\\bk-github\\\\claude-code-projects\\\\house-build-book\" remote -v)",
+      "Bash(wc:*)",
+      "Bash(quarto:*)",
+      "Bash(where.exe:*)",
+      "Bash(cmd /c:*)",
+      "Bash(powershell -Command:*)"
+    ]
+  }
+}

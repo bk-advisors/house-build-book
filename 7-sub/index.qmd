@@ -1,77 +1,66 @@
 ---
-title: <span style="color:white">Chapter 7 - Substructure</span>
-subtitle: "'It is not the beauty of the building you should look at: it's the construction of the foundation that will stand the test of time.' – David Allen Coe"
-
-author: 
-- name: "Matthew Kuch"
-  email: kuch.matthew@gmail.com
+title: "Chapter 7 - Substructure"
+subtitle: "'It is not the beauty of the building you should look at; it's the construction of the foundation that will stand the test of time.' --- David Allan Coe"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
 date: 02/13/2025
-
-title-block-banner: true
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
 ---
 
-Every house begins from the ground—literally. The sub-structure is what lies beneath the surface and serves as the foundation upon which everything else is built. Without a solid foundation, even the most beautifully designed house can suffer from cracks, uneven floors, or even more catastrophic failures. This is why getting the sub-structure right is perhaps the most important step in the entire building process.
+Every house begins from the ground---literally. The sub-structure is what lies beneath the surface and serves as the foundation upon which everything else is built. Without a solid foundation, even the most beautifully designed house can suffer from cracks, uneven floors, or catastrophic structural failures. This is why getting the sub-structure right is perhaps the most important step in the entire building process.
 
-When people think about building a house, they often overlook what goes underground. It is easy to focus on the more visible aspects—the walls, the roof, the windows—but forget that none of that will matter if the house does not have a strong base. A weak foundation can lead to structural problems that are difficult and expensive to fix later on. Many first-time builders in Uganda find themselves facing issues like sinking floors or cracked walls because they underestimated the importance of investing in a strong sub-structure.
+When people think about building a house, they often overlook what goes underground. It is easy to focus on the more visible aspects---the walls, the roof, the windows---and forget that none of those will matter if the house does not have a strong base. A weak foundation can lead to structural problems that are difficult and expensive to fix later on. Many first-time builders in Uganda find themselves facing issues like sinking floors or cracked walls because they underestimated the importance of investing in a strong sub-structure.
 
-The challenge is that the sub-structure is one of the most technical aspects of building and it requires expert knowledge. Mistakes made at this stage can be hard to detect until it’s too late, leaving you with costly repairs down the road. So how do you avoid these pitfalls?
+![Foundation excavation and concrete pouring](https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800){.chapter-illustration fig-alt="Construction workers laying a concrete foundation for a house"}
 
-## Investing in a solid foundation
+The challenge is that the sub-structure is one of the most technical aspects of building, and it requires expert knowledge. Mistakes made at this stage can be hard to detect until it is too late, leaving you with costly repairs down the road. So how do you avoid these pitfalls?
 
-The sub-structure includes everything below the ground: excavation, the foundation and the damp-proof course (DPC). This stage of construction is all about ensuring the weight of your house is properly supported. The cost of a well-built foundation can seem high initially often about 30% of the total value of house construction costs but it pays off in the long run by preventing issues like uneven settlement, water damage, or even collapsing walls.
+## Investing in a Solid Foundation
 
-My Auntie Barbara is a very detailed-oriented individual and is a structural engineer by trade. Over the years, she has built or supervised the completion of hundreds of houses for her clients.
+The sub-structure includes everything below the ground: excavation, the foundation, and the damp-proof course (DPC). This stage of construction is all about ensuring that the weight of your house is properly supported. The cost of a well-built foundation can seem high initially---often about 30% of the total house construction costs---but it pays off in the long run by preventing issues like uneven settlement, water damage, or collapsing walls.
 
-She once told me of a couple that didn’t heed her warnings and insisted on cutting costs by using substandard materials in their foundation. A few years down the line, they started noticing cracks in their walls and their floors began to sink. The repairs ended up costing more than if they had invested properly in the foundation in the first place.
+My Auntie Barbara is a detail-oriented individual and a structural engineer by trade. Over the years, she has built or supervised the completion of hundreds of houses for her clients.
 
-The main cost driver in the sub-structure phase is materials. High-quality cement, steel reinforcement bars (rebar), hardcore and gravel are essential for a strong foundation. Additionally, the soil type in your area can impact costs. Building on clay soil, for example might require deeper excavation or special techniques to ensure stability while more stable soils may allow for shallower foundations.
+She once told me about a couple that did not heed her warnings and insisted on cutting costs by using substandard materials in their foundation. A few years down the line, they started noticing cracks in their walls, and their floors began to sink. The repairs ended up costing more than if they had invested properly in the foundation in the first place.
 
-In Kampala and Wakiso for instance, where some areas have expansive clay soil, builders tend to excavate deeper than usual to ensure a stable foundation. Though this increased their initial costs, it gave them peace of mind knowing the house would be stable in the long term.
+The main cost driver in the sub-structure phase is materials. High-quality cement, steel reinforcement bars (rebar), hardcore, and gravel are essential for a strong foundation. Additionally, the soil type in your area can affect costs. Building on clay soil, for example, might require deeper excavation or special techniques to ensure stability, while more stable soils may allow for shallower foundations.
 
-## Preventing water damage and moisture problems
+In Kampala and Wakiso, for instance, where some areas have expansive clay soil, builders tend to excavate deeper than usual to ensure a stable foundation. Though this increases initial costs, it provides peace of mind knowing the house will be stable in the long term.
 
-Uganda experiences heavy rains and this can lead to water seepage if the sub-structure is not properly done. One important part of the sub-structure is the damp-proof course (DPC) which helps prevent moisture from rising through the foundation into the walls. Without a proper DPC, you may end up with damp walls, mold and other moisture-related problems.
+![Reinforced steel rebar in a foundation trench](https://images.unsplash.com/photo-1590644365607-1c5a6b4e4f68?w=800){.chapter-illustration fig-alt="Steel reinforcement bars arranged in a foundation trench"}
 
-I know a homeowner who initially skipped the damp-proofing layer to save money thinking it was unnecessary. After just one rainy season, they found their walls were damp and mold was spreading through-out the house. The cost of fixing the problem was far greater than what it would have taken to install a proper DPC in the first place.
+## Preventing Water Damage and Moisture Problems
 
-## Building a strong foundation, step by step
+Uganda experiences heavy rains, and this can lead to water seepage if the sub-structure is not properly done. One important component of the sub-structure is the damp-proof course (DPC), which prevents moisture from rising through the foundation into the walls. Without a proper DPC, you may end up with damp walls, mould, and other moisture-related problems.
 
-The key to a solid sub-structure is to follow the process diligently working with professionals who understand the local conditions and materials. Here’s a basic breakdown of the sub-structure process:
+I know a homeowner who initially skipped the damp-proofing layer to save money, thinking it was unnecessary. After just one rainy season, they found their walls were damp and mould was spreading throughout the house. The cost of fixing the problem was far greater than what it would have taken to install a proper DPC in the first place.
 
-1.  **Site preparation and excavation:** The first step is clearing the site and excavating the trenches where your foundation will be laid. The depth of these trenches will depend on the type of soil and the weight of the structure.
-2.  **Foundation laying:** Once the trenches are dug, it’s time to lay the foundation. This usually involves pouring concrete into the trenches, reinforced with steel rebar to give the foundation extra strength. The size and depth of the foundation will depend on the size and type of the house you are building.
-3.  **Damp-Proof Course (DPC):** After the foundation is set, a damp-proof course is applied. This layer prevents moisture from rising up into the walls of your house protecting it from long-term water damage.
-4.  **Backfilling and leveling:** Once the foundation is in place, the excavated soil is backfilled around it, and the ground is leveled. At this stage, the base for your floor slab is prepared.
+## Building a Strong Foundation, Step by Step
 
-By following these steps carefully, you ensure that your house has a strong foundation that will support it for years to come. Investing in the right materials and professional advice is essential to avoid issues down the road. It may seem like a lot of effort and money upfront but in the long run, it’s the foundation that holds everything together—quite literally.
+The key to a solid sub-structure is to follow the process diligently, working with professionals who understand the local conditions and materials. Here is a basic breakdown of the sub-structure process:
 
-## Practical Tips – Chapter 7
+1.  **Site preparation and excavation.** The first step is clearing the site and excavating the trenches where your foundation will be laid. The depth of these trenches will depend on the type of soil and the weight of the structure.
 
--   **Consult a structural engineer:** Don’t try to cut costs by skipping professional advice. A structural engineer can evaluate the soil conditions on your plot and recommend the best foundation type.
+2.  **Foundation laying.** Once the trenches are dug, it is time to lay the foundation. This usually involves pouring concrete into the trenches, reinforced with steel rebar to give the foundation extra strength. The size and depth of the foundation will depend on the size and type of house you are building.
 
--   **Invest in quality materials:** Use high-quality cement, steel, and gravel for the foundation. Cutting corners at this stage could lead to major problems later.
+3.  **Damp-proof course (DPC).** After the foundation is set, a damp-proof course is applied. This layer prevents moisture from rising up into the walls of your house, protecting it from long-term water damage.
 
--   **Don’t forget the DPC!** : Moisture problems can be a nightmare in the long run, so make sure your foundation includes a proper damp-proof course.
+4.  **Backfilling and levelling.** Once the foundation is in place, the excavated soil is backfilled around it and the ground is levelled. At this stage, the base for your floor slab is prepared.
 
--   **Prepare for soil variations:** Depending on the type of soil in your area, you may need to dig deeper or use more reinforcement. Be prepared for this in your budget.
+By following these steps carefully, you ensure that your house has a strong foundation that will support it for years to come. Investing in the right materials and professional advice is essential to avoid problems down the road.
 
-The sub-structure, though hidden from view, is the most critical part of the entire building. By taking the time and resources to do it right, you’re setting the stage for a home that will stand strong for generations.
+## Practical Tips -- Chapter 7
 
-------------------------------------------------------------------------
+::: {.callout-tip}
+## Key Takeaways
 
-# Sources:
+-   **Consult a structural engineer.** Do not try to cut costs by skipping professional advice. A structural engineer can evaluate the soil conditions on your plot and recommend the best foundation type.
 
-To Be Included...
+-   **Invest in quality materials.** Use high-quality cement, steel, and gravel for the foundation. Cutting corners at this stage could lead to major problems later.
+
+-   **Do not forget the DPC.** Moisture problems can be a nightmare in the long run, so make sure your foundation includes a proper damp-proof course.
+
+-   **Prepare for soil variations.** Depending on the type of soil in your area, you may need to dig deeper or use more reinforcement. Be prepared for this in your budget.
+:::
+
+The sub-structure, though hidden from view, is the most critical part of the entire building. By taking the time and resources to do it right, you are setting the stage for a home that will stand strong for generations.

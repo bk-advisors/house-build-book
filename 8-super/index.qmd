@@ -1,76 +1,66 @@
 ---
-title: <span style="color:white">Chapter 8 - Super-structure</span>
-subtitle: "'You cannot build a super-structure on a cracked foundation' - Bill Graham"
-
-author: 
-- name: "Matthew Kuch"
-  email: kuch.matthew@gmail.com
+title: "Chapter 8 - Super-structure"
+subtitle: "'You cannot build a super-structure on a cracked foundation.' --- Bill Graham"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
 date: 02/13/2025
-
-title-block-banner: true
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
 ---
 
-After the foundation is firmly in place, it's time to build what most people see and recognize as a house—the super-structure. This phase of the construction process involves everything above the ground level, including walls, columns, beams and the roof. The super-structure gives your house its shape and strength ensuring it can stand up to the elements and the test of time.
+After the foundation is firmly in place, it is time to build what most people see and recognise as a house---the super-structure. This phase of construction involves everything above the ground level, including walls, columns, beams, and the roof. The super-structure gives your house its shape and strength, ensuring it can stand up to the elements and the test of time.
 
-Many people are tempted to rush through this phase eager to see their house take shape. They might hire less experienced workers or choose cheaper materials to speed up the process or cut costs. However, mistakes made here can have long-lasting consequences. Poorly built walls can crack or buckle and a weak roof can leak or even collapse during heavy rains or winds.
+Many people are tempted to rush through this phase, eager to see their house take shape. They might hire less experienced workers or choose cheaper materials to speed up the process or cut costs. However, mistakes made here can have long-lasting consequences. Poorly built walls can crack or buckle, and a weak roof can leak or even collapse during heavy rains or winds.
 
-The challenge with building the super-structure is balancing cost and quality. It is easy to get carried away trying to save money or time but any shortcuts taken at this stage can lead to costly repairs later. The key is to understand where it is safe to cut costs and where you should absolutely not compromise on quality.
+![Walls being constructed on a building site](https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800){.chapter-illustration fig-alt="Construction workers building walls and columns on a house"}
+
+The challenge with building the super-structure is balancing cost and quality. It is easy to get carried away trying to save money or time, but any shortcuts taken at this stage can lead to costly repairs later. The key is to understand where it is safe to economise and where you should absolutely not compromise on quality.
 
 ## Striking a Balance
 
-The super-structure is what gives your house its durability. Strong walls, sturdy columns and a well- constructed roof ensure your house will last for many years. Investing in quality materials and skilled labor at this stage might increase costs upfront but it guarantees the long-term safety and comfort of your home.
+The super-structure is what gives your house its durability. Strong walls, sturdy columns, and a well-constructed roof ensure your house will last for many years. Investing in quality materials and skilled labour at this stage might increase costs upfront, but it guarantees the long-term safety and comfort of your home.
 
-My Aunt Barbara built her first house in the 1990s but made sure to use a skilled mason and high-quality blocks for her walls, even though it cost more than locally made bricks. Decades later, her house is still in excellent condition, with no cracks or structural problems.
+My Auntie Barbara built her first house in the 1990s but made sure to use a skilled mason and high-quality blocks for her walls, even though they cost more than locally made bricks. Decades later, her house is still in excellent condition, with no cracks or structural problems.
 
-Also, when it comes to the super-structure, materials and labor are the largest cost drivers. In Uganda, you have options for the type of materials you can use for your walls—bricks, concrete blocks or even steel for certain structural elements. Each material has its own cost implications and benefits.
+When it comes to the super-structure, materials and labour are the largest cost drivers. In Uganda, you have options for wall materials---bricks, concrete blocks, or even steel for certain structural elements. Each material has its own cost implications and benefits.
 
-The roof for instance is one of the most expensive parts of the super-structure. The type of roof you choose—whether it's a simple iron-sheet roof or more complex designs like tiled roofs—will significantly impact your budget. However, a poorly constructed roof can lead to serious problems, including leaks and structural failure.
+The roof, for instance, is one of the most expensive parts of the super-structure. The type of roof you choose---whether a simple iron-sheet roof or a more complex tiled design---will significantly affect your budget. However, a poorly constructed roof can lead to serious problems, including leaks and structural failure.
 
-## The design is up to you
+## The Design Is Up to You
 
-Building the super-structure also offers an opportunity to customize the design of your home. At this stage, you can make decisions about the layout of rooms, the height of the ceilings and the number of windows. These details make the house unique to your tastes and needs.
+Building the super-structure also offers an opportunity to customise the design of your home. At this stage, you make decisions about the layout of rooms, the height of ceilings, and the number of windows. These details make the house unique to your tastes and needs.
 
 A friend of mine decided to go for larger windows to allow more natural light and improve ventilation. Though it slightly increased his construction costs, he now enjoys a bright and airy home, saving on electricity during the day.
 
-## Build with care and quality
+![Roof truss installation on a new build](https://images.unsplash.com/photo-1632763567847-02e9e2258ec5?w=800){.chapter-illustration fig-alt="Roof trusses being installed on a house under construction"}
 
-Like we’ve discussed, the super-structure phase is crucial because this is where the shape and structure of your home truly come to life. Below is a step-by-step guide to ensure you get this phase right:
+## Build with Care and Quality
 
-1.  **Walls and columns:** The first step in the super-structure phase is constructing the walls and columns. Depending on your design, you may use bricks, concrete blocks, or other materials. The key here is to ensure the walls are properly aligned and that the columns are strong enough to support the weight of the roof.
-2.  **Lintels and beams:** After the walls are up, lintels (horizontal supports above windows and doors) and beams are added to ensure structural integrity. These elements distribute the weight of the roof and upper floors (if any) evenly across the walls.
-3.  **Roofing framework:** Once the walls and beams are in place, the next step is the roof framework. This involves installing trusses (usually made of steel or timber) which form the skeleton of your roof. The type of roof you choose will determine the complexity and cost of this step.
-4.  **Roofing:** After the framework is complete, the roofing material is laid. This can be anything from iron sheets to tiles depending on your budget and design preferences. Make sure to choose a material that suits your areas climate—iron sheets are popular in Uganda but tiles may offer better insulation in hotter regions.
-5.  **Windows and doors:** With the roof in place, it’s time to install windows and doors. This is another opportunity to personalize your home, choosing designs that suit your style and practical needs. You may opt for simple wooden frames or more modern metallic frames depending on your budget.
+The super-structure phase is crucial because this is where the shape and structure of your home truly come to life. Below is a step-by-step guide to ensure you get this phase right:
 
-By following these steps such as investing in quality materials and skilled labor, you can ensure that your super- structure is strong, durable and tailored to your needs. While it might be tempting to cut costs especially on the roof, remember that the super-structure is what holds everything together. A house built with care during this phase will provide you with security and peace of mind for years to come.
+1.  **Walls and columns.** The first step is constructing the walls and columns. Depending on your design, you may use bricks, concrete blocks, or other materials. The key is to ensure the walls are properly aligned and that the columns are strong enough to support the weight of the roof.
 
-## Practical Tips – Chapter 8
+2.  **Lintels and beams.** After the walls are up, lintels (horizontal supports above windows and doors) and beams are added to ensure structural integrity. These elements distribute the weight of the roof and upper floors (if any) evenly across the walls.
 
--   **Skilled labor matters:** Hiring experienced masons and carpenters for the super-structure will save you money in the long run by ensuring the job is done right the first time.
+3.  **Roofing framework.** Once the walls and beams are in place, the next step is the roof framework. This involves installing trusses---usually made of steel or timber---which form the skeleton of your roof. The type of roof you choose will determine the complexity and cost of this step.
 
--   **Choose materials wisely:** Depending on your budget, location, and climate, you may need to choose between bricks, blocks, or other materials. Remember that quality materials last longer and require less maintenance.
+4.  **Roofing.** After the framework is complete, the roofing material is laid. This can be anything from iron sheets to tiles, depending on your budget and design preferences. Choose a material that suits your area's climate---iron sheets are popular in Uganda, but tiles may offer better insulation in hotter regions.
 
--   **Consider future expansion:** If you plan to add more floors to your house in the future, make sure your super-structure can support the additional weight. Consult with an engineer to ensure the building is designed for potential expansion.
+5.  **Windows and doors.** With the roof in place, it is time to install windows and doors. This is another opportunity to personalise your home, choosing designs that suit your style and practical needs. You may opt for simple wooden frames or more modern metallic frames, depending on your budget.
 
--   **Plan for ventilation and light:** During this phase, you can make important decisions about windows and doors. Larger windows may increase costs but can save you on electricity in the long term by allowing natural light and ventilation.
+By investing in quality materials and skilled labour, you can ensure that your super-structure is strong, durable, and tailored to your needs. While it might be tempting to cut costs---especially on the roof---remember that the super-structure is what holds everything together. A house built with care during this phase will provide you with security and peace of mind for years to come.
 
-The super-structure is where your house takes its true form. By focusing on quality and following the proper steps, you ensure that your home remains strong, beautiful, and safe for your family for years to come
+## Practical Tips -- Chapter 8
 
-------------------------------------------------------------------------
+::: {.callout-tip}
+## Key Takeaways
 
-# Sources:
+-   **Skilled labour matters.** Hiring experienced masons and carpenters for the super-structure will save you money in the long run by ensuring the job is done right the first time.
 
-To Be Included...
+-   **Choose materials wisely.** Depending on your budget, location, and climate, you may need to choose between bricks, blocks, or other materials. Quality materials last longer and require less maintenance.
+
+-   **Consider future expansion.** If you plan to add more floors in the future, make sure your super-structure can support the additional weight. Consult with an engineer to ensure the building is designed for potential expansion.
+
+-   **Plan for ventilation and light.** During this phase, you make important decisions about windows and doors. Larger windows may increase costs but can save you on electricity in the long term by allowing natural light and ventilation.
+:::
+
+The super-structure is where your house takes its true form. By focusing on quality and following the proper steps, you ensure that your home remains strong, beautiful, and safe for your family for years to come.

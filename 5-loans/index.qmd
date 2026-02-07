@@ -1,66 +1,52 @@
 ---
-title: <span style="color:white">Chapter 5 - Loans</span>
-subtitle: "'The rich rule over the poor, and the borrower is slave to the lender' - Proverbs 22, verse 7"
-
-author: 
-- name: "Matthew Kuch"
-  email: kuch.matthew@gmail.com
-date: 01/31/2024
-
-title-block-banner: true
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
+title: "Chapter 5 - Loans"
+subtitle: "'The rich rule over the poor, and the borrower is slave to the lender.' --- Proverbs 22:7"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
+date: 01/31/2025
 ---
 
-For many of us who were born in the dotcom and microwave era, saving enough money to cover the entire cost of construction seems like a herculean task and takes too long. In such cases, taking out a loan becomes an attractive option to make your dream home a reality sooner. However, loans do come with their own set of challenges and it’s important to understand both the benefits and risks before committing.
+For many of us who were born in the digital and microwave era, saving enough money to cover the entire cost of construction feels like a herculean task---it simply takes too long. In such cases, taking out a loan becomes an attractive option to make your dream home a reality sooner. However, loans come with their own set of challenges, and it is important to understand both the benefits and risks before committing.
 
-The biggest appeal of loans is the ability to start building right away. You don’t have to wait years to save the entire sum needed to complete your home. However, while loans offer quick access to funds, they also introduce the burden of debt. The pressure to meet monthly repayments and the risk of default can weigh heavily on you if not managed carefully.
+The biggest appeal of loans is the ability to start building right away. You do not have to wait years to save the entire sum needed to complete your home. However, while loans offer quick access to funds, they also introduce the burden of debt. The pressure to meet monthly repayments and the risk of default can weigh heavily on you if not managed carefully.
 
-In Uganda, loans in general come with high-interest rates and the requirements can be stringent. If you’re not careful, you could find yourself struggling to make repayments while still facing rising construction costs.
+![Financial institution and banking](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800){.chapter-illustration fig-alt="Bank building representing financial lending institutions"}
 
-## Instant access to funds vs. financial pressure
+In Uganda, loans generally come with high interest rates, and the requirements can be stringent. If you are not careful, you could find yourself struggling to make repayments while still facing rising construction costs.
 
-The primary advantage of taking out a loan is that it gives you immediate access to the money you need to build. Instead of waiting years to save up, you can begin construction as soon as the loan is approved which allows you to move into your new home faster.
+## Instant Access to Funds vs. Financial Pressure
 
-We are all familiar with the story of the colleague at work who took out a loan to build his family house. He didn’t have to wait for years to save enough money and was able to move into his home in just 18 months. For him, the loan provided a much-needed solution to escape the rising cost of rent which he had been paying for years.
+The primary advantage of taking out a loan is that it gives you immediate access to the money you need to build. Instead of waiting years to save up, you can begin construction as soon as the loan is approved, allowing you to move into your new home much faster.
 
-On the flip side, loans come with monthly repayments that can be a heavy burden. In Uganda, interest rates on construction loans can be as high as 18-25% per year for UGX currency loans. This means you will end up paying significantly more than the amount you initially borrowed. For many, these high repayments can become overwhelming especially if they face unexpected financial challenges.
+We are all familiar with the story of the colleague at work who took out a loan to build a family house. He did not have to wait years to save enough and was able to move into his home in just eighteen months. For him, the loan provided a much-needed solution to escape the rising cost of rent, which he had been paying for years.
+
+On the flip side, loans come with monthly repayments that can be a heavy burden. In Uganda, interest rates on construction loans can be as high as 18--25% per year for UGX-denominated loans. This means you will end up paying significantly more than the amount you initially borrowed. For many, these high repayments can become overwhelming, especially if they face unexpected financial challenges.
 
 To share a concrete example, a friend of Uncle Mo once borrowed UGX 200 million to build his house. Due to rising interest rates and a longer-than-expected construction period, he found himself paying close to UGX 300 million by the time the house was finished. While he achieved his goal of building a home, the financial strain was much greater than he initially anticipated.
 
-## Borrow with a plan and repay with discipline
+![Reviewing loan documents and financial terms](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800){.chapter-illustration fig-alt="Person reviewing financial documents and loan terms"}
 
-If you decide to finance your house through a loan, careful planning is essential. Before taking out a loan, make sure you have a clear understanding of how much you need to borrow and how much you can afford to repay each month without putting too much pressure on yourself. It's also crucial to compare different loan options to find the best interest rates and terms.
+## Borrow with a Plan and Repay with Discipline
 
-Think about what would happen if your income were reduced or if construction costs increased. Having a plan for these scenarios can help you avoid defaulting on your loan. Remember that taking out a loan is a long-term commitment, and the sooner you repay it, the less interest you’ll pay in the end.
+If you decide to finance your house through a loan, careful planning is essential. Before taking out a loan, make sure you have a clear understanding of how much you need to borrow and how much you can afford to repay each month without putting too much pressure on yourself. It is also crucial to compare different loan options to find the best interest rates and terms.
 
-Lastly, discipline is key. Stick to your repayment schedule and if possible, make additional payments whenever you have extra funds. The quicker you pay off the loan, the less financial pressure you'll face and the sooner you can enjoy living in your debt-free home.
+Think about what would happen if your income were reduced or if construction costs increased. Having a plan for these scenarios can help you avoid defaulting on your loan. Remember that taking out a loan is a long-term commitment, and the sooner you repay it, the less interest you will pay in the end.
 
-## Practical Tips – Chapter 5
+Lastly, discipline is key. Stick to your repayment schedule and, if possible, make additional payments whenever you have extra funds. The quicker you pay off the loan, the less financial pressure you will face and the sooner you can enjoy living in your debt-free home.
 
--   **Borrow only what you need:** It’s tempting to borrow more than necessary, but this will only increase the amount of interest you pay in the long run. Only borrow the minimum amount needed to complete your house. For instance, if the monthly loan repayment is more than 50% of your monthly income, its best to avoid it.
+## Practical Tips -- Chapter 5
 
--   **Compare loan options:** Not all loans are created equal. Shop around and compare different banks, SACCOs, or microfinance institutions to find the best interest rates and repayment terms.
+::: {.callout-tip}
+## Key Takeaways
 
--   **Have a backup plan:** Ensure you have a financial cushion or backup income source in case your circumstances change, making it harder to repay your loan.
+-   **Borrow only what you need.** It is tempting to borrow more than necessary, but this will only increase the amount of interest you pay. Only borrow the minimum amount needed to complete your house. As a rule of thumb, if the monthly loan repayment exceeds 50% of your monthly income, it is best to avoid it.
 
--   **Repay early, if possible:** If you receive any extra income, consider using it to make additional loan payments. This will reduce the overall interest and help you clear the debt faster.
+-   **Compare loan options.** Not all loans are created equal. Shop around and compare different banks, SACCOs, and microfinance institutions to find the best interest rates and repayment terms.
 
-Taking out a loan can help you build your home much sooner, but it requires careful planning and financial discipline. By understanding the risks and benefits, and borrowing wisely, you can avoid the common pitfalls of loan financing and turn your house-building dream into reality
+-   **Have a backup plan.** Ensure you have a financial cushion or backup income source in case your circumstances change, making it harder to repay your loan.
 
-------------------------------------------------------------------------
+-   **Repay early, if possible.** If you receive any extra income, consider using it to make additional loan payments. This will reduce the overall interest and help you clear the debt faster.
+:::
 
-# Sources:
-
-To Be Included...
+Taking out a loan can help you build your home much sooner, but it requires careful planning and financial discipline. By understanding the risks and benefits, and borrowing wisely, you can avoid the common pitfalls of loan financing and turn your house-building dream into reality.

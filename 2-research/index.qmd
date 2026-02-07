@@ -1,92 +1,74 @@
 ---
-title: <span style="color:white">Chapter 2 - Research and Consult</span>
-subtitle: "'If we knew what we were doing it wouldn’t be research.' - Albert Einstein"
-
-author: 
-- name: "Matthew Kuch"
-  email: kuch.matthew@gmail.com
-date: 01/18/2024
-
-title-block-banner: true
-title-block-banner-color: "black"
-
-format: html
-html:
-code-fold: false
-code-summary: "Code"
-echo: false
-css: style.css
-toc: true
-toc-location: left
-number-sections: false
-editor: visual
-fig-cap-location: margin
+title: "Chapter 2 - Research and Consult"
+subtitle: "'If we knew what we were doing, it wouldn't be research.' --- Albert Einstein"
+author:
+  - name: "Matthew Kuch"
+    email: kuch.matthew@gmail.com
+date: 01/18/2025
 ---
 
-Now imagine this: you've settled on a beautiful plot of land in a peaceful neighborhood. You've even sketched a rough plan for your dream house. But as soon as you meet the builders and local authorities, reality sets in. They tell you about zoning regulations, material shortages, and labor costs you hadn't considered. Yikes!
+Now imagine this: you have settled on a beautiful plot of land in a peaceful neighbourhood. You have even sketched a rough plan for your dream house. But as soon as you meet the builders and local authorities, reality sets in. They tell you about zoning regulations, material shortages, and labour costs you had not considered.
 
-The vision you held so dear starts to seem further from your grasp. If you don’t navigate this next step of researching and consulting - you risk overspending, delays, and even legal issues.
+The vision you held so dear starts to seem further from your grasp. If you do not navigate this next step of researching and consulting, you risk overspending, delays, and even legal issues.
 
 This is where many people stumble. They dive into building without first arming themselves with the information necessary to make informed decisions.
 
-This chapter is about preventing that pitfall by equipping you with tools to research and consult properly before you break ground.
+![Consulting with professionals before building](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800){.chapter-illustration fig-alt="People consulting over building plans and documents"}
 
-Skipping research and consultation may seem like a way to save time and money, but it often leads to costly mistakes. Imagine spending months envisioning a home design, only to realize later that it violates local building regulations, or worse, the foundation is incompatible with the soil on your plot. These kinds of setbacks can result in costly redesigns or even halting your project altogether.
+This chapter is about preventing that pitfall by equipping you with the tools to research and consult properly before you break ground.
 
-Without proper research, you're likely to run into problems such as:
+Skipping research and consultation may seem like a way to save time and money, but it often leads to costly mistakes. Imagine spending months envisioning a home design, only to realise later that it violates local building regulations---or worse, that the foundation is incompatible with the soil on your plot. These kinds of setbacks can result in costly redesigns or even halt your project altogether.
+
+Without proper research, you are likely to run into problems such as:
 
 -   **Unexpected costs:** Material prices fluctuate depending on location and season.
+-   **Regulatory delays:** Not understanding the local permit process can lead to fines or even demolition orders.
+-   **Wasted time and resources:** Investing in poor-quality labour or building methods might force you to redo entire sections of the project.
 
--   **Regulatory delays:** Not understanding the local permit process can lead to fines or even demolition.
+## Unexpected Costs
 
--   **Wasted time and resources:** Investing in poor quality labour or building methods might force you to redo entire sections of the project.
+Materials make up a significant portion of your building budget---that is simply the reality. Now imagine you have bought all the bricks and cement at the start of the rainy season. Due to supply chain disruptions, the price of these materials has spiked, and you are spending far more than you anticipated.
 
-### Unexpected costs
+Contrast this with someone who has done their research and timed their purchases wisely. By talking to local suppliers and monitoring trends, they wait until the dry season when demand---and prices---are lower, securing a much better deal on the same materials.
 
-Materials will make up a significant portion of your building budget. That’s just the reality. Now imagine you’ve bought all the bricks and cement for your house at the start of the rainy season. Due to supply chain issues, the price of these materials has spiked, meaning you’re spending far more than you anticipated.
-
-Contrast this with someone who has done their research and timed their purchases smartly. By talking to local suppliers and checking trends, they wait until the dry season when demand (and prices) are likely lower. As a result, they get a much better deal on the same materials.
-
-Take Vincent for example, who built a house in Wakiso. He saved close to 10% of his total construction costs simply by buying materials in bulk during an off-peak period. He also spoke to experienced contractors who advised him on where to get discounts on timber and iron sheets. Without those consultations, he could have paid premium prices and gone over budget.
+Take Vincent, for example. He saved close to 10% of his total construction costs simply by buying materials in bulk during an off-peak period. He also spoke to experienced contractors who advised him on where to find discounts on timber and iron sheets. Without those consultations, he could have paid premium prices and gone over budget.
 
 Thorough research will help you be strategic with your purchases, keeping your project within budget.
 
-### Regulatory delays
+![Construction materials at a building supply shop](https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800){.chapter-illustration fig-alt="Building materials stacked at a construction supply store"}
 
-Imagine you’ve started construction, only to be informed by the local authorities that your building violates zoning laws. This could lead to demolition orders, fines, or project delays—all of which will eat into your budget. The cost of not knowing the local building codes can be devastating.
+## Regulatory Delays
 
-On the flip side, investing time in understanding the building regulations in your area is a low-cost, high-reward move. For example, if you're planning to build in urban areas like Kampala, Mukono or Wakiso, knowing the specific land-use regulations could save you from making costly design changes after construction begins. Consulting local authorities or a qualified architect before starting will provide clarity on the necessary permits and legalities.
+Imagine you have started construction, only to be informed by the local authorities that your building violates zoning laws. This could lead to demolition orders, fines, or project delays---all of which will eat into your budget. The cost of not knowing the local building codes can be devastating.
+
+On the other hand, investing time in understanding the building regulations in your area is a low-cost, high-reward move. For example, if you are planning to build in urban areas like Kampala, Mukono, or Wakiso, knowing the specific land-use regulations could save you from making costly design changes after construction begins. Consulting local authorities or a qualified architect before starting will provide clarity on the necessary permits and legal requirements.
 
 By consulting early, you avoid project halts and hefty fines, saving both time and money.
 
-### Wasted time and resources
+## Wasted Time and Resources
 
-Now, let’s say you hire a construction crew without thoroughly vetting them, thinking you’ve scored a cheap deal. You later realize they lack the necessary skills for your project, leading to poorly done work that requires costly repairs or rework.
+Now, let's say you hire a construction crew without thoroughly vetting them, thinking you have scored a cheap deal. You later realise they lack the necessary skills, leading to poorly done work that requires costly repairs or rework.
 
-Now consider the person who consulted local builders and got recommendations from people who had already built homes. They may pay a bit more upfront for skilled labor, but the long-term savings are immense. Quality labor ensures the job is done right the first time.
+Consider the person who consulted local builders and got recommendations from people who had already built homes. They may pay a bit more upfront for skilled labour, but the long-term savings are immense. Quality labour ensures the job is done right the first time.
 
-Reach out to friends and family members who’ve recently completed building projects. Ask for honest reviews of the laborers they worked with. Doing this could save you from hiring the wrong people, and ensure your project moves along smoothly.
+Reach out to friends and family members who have recently completed building projects. Ask for honest reviews of the labourers they worked with. Doing this could save you from hiring the wrong people and ensure your project moves along smoothly.
 
-Consulting experienced builders reduces the risk of poor workmanship and ensures your house is built to last
+## Make Informed Decisions
 
-### Make informed decisions
+The solution to these potential pitfalls is straightforward: arm yourself with knowledge. Research and consultation are your insurance policies against costly mistakes. Before making any financial commitments, take time to gather information on everything from building permits and materials to labour and construction methods. Talk to people who have built homes before you. Meet with professionals like architects and contractors who can offer expert advice tailored to your project.
 
-The solution to these potential pitfalls is straightforward: arm yourself with knowledge. Research and consultation are your insurance policies against costly mistakes. Before making any financial commitments, take time to gather information on everything from building permits and materials to labor and construction methods. Talk to people who have built homes before you. Meet with professionals like architects and contractors who can offer expert advice tailored to your unique project.
+## Practical Tips -- Chapter 2
 
-### Practical Tips – Chapter 2:
+::: {.callout-tip}
+## Key Takeaways
 
--   Visit the local planning office: Get a full understanding of the permits and regulations in your area. This will save you from unpleasant surprises later.
+-   **Visit the local planning office.** Get a full understanding of the permits and regulations in your area. This will save you from unpleasant surprises later.
 
--   Talk to at least 3 suppliers: Compare the prices or quotations of key materials like cement, timber, iron sheets and labour. This helps you find the best deals.
+-   **Talk to at least three suppliers.** Compare quotations for key materials like cement, timber, and iron sheets. This helps you find the best deals.
 
--   Consult with experienced builders (particularly in the area/environment you wish to build): Even a short conversation with someone who has built recently can give you invaluable tips on avoiding common mistakes.
+-   **Consult experienced builders.** Even a short conversation with someone who has built recently---particularly in the area where you plan to build---can give you invaluable tips on avoiding common mistakes.
 
--   Vet your labor thoroughly: Cheap labor can end up costing you more if the quality is poor. Always check references before hiring.
+-   **Vet your labour thoroughly.** Cheap labour can end up costing you more if the quality is poor. Always check references before hiring.
+:::
 
-The time you spend researching and consulting will pay off in the long run, ensuring your project stays within quality specifications, budget and on schedule while meeting all legal and safety requirements
-
-------------------------------------------------------------------------
-
-# Sources:
-
-To Be Included...
+The time you spend researching and consulting will pay off in the long run, ensuring your project stays within budget, on schedule, and meets all legal and safety requirements.
