@@ -1,0 +1,93 @@
+---
+title: <span style="color:white">The Sledgehammer Effect</span>
+subtitle: "How Shaquille O'Neal’s power redefined the game—and his cracks made him human"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/19/2024
+
+title-block-banner: ./assets/shaq.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+```
+
+# Dominance Personified
+
+Some forces don’t just shape their surroundings—they obliterate them. A sledgehammer doesn’t ask permission; it doesn’t negotiate. It strikes, and everything in its path bends, breaks, or reshapes itself in response. Shaquille O’Neal was basketball’s ultimate sledgehammer.
+
+His game wasn’t about finesse or subtlety. It was about raw, uncontainable power. When Shaq stepped onto the court, he wasn’t playing within the game’s limits—he was forcing the game to converge and adapt around him. Yet, like a sledgehammer, even his most powerful strikes revealed cracks, proving that no force, no matter how dominant, is without its vulnerabilities.
+
+# The Hammer of the Paint
+
+The paint was Shaq’s demolition site. No one owned it like he did. Defenders didn’t guard him—they endured him. He would lower his shoulder, spin, and dunk with such authority that the rim itself seemed like it might give way.
+
+Opposing coaches didn’t scheme to stop him—they schemed to survive him. Double-teams became a norm. Rules were adjusted to try and slow him down. But Shaq, like the sledgehammer, didn’t just break defenses; he shattered expectations of what a player of his size and power could do.
+
+*Placeholder for data: An analysis of Shaq’s points in the paint, detailing his unparalleled efficiency and scoring volume near the basket.*
+
+# The Cracks in the Hammer
+
+Even the strongest tools have weak points, and Shaq’s was his free-throw shooting. "Hack-a-Shaq" wasn’t just a strategy—it was an acknowledgment that his dominance couldn’t be stopped any other way. The idea was simple: if you couldn’t outplay him, you could try to outwait him at the free-throw line.
+
+Shaq didn’t shy away from this crack in his game. He joked about it, worked on it, and kept moving forward. And while his struggles at the line frustrated fans and delighted opponents, they also made him relatable. Even the most unstoppable force had a vulnerable side.
+
+*Placeholder for data: A statistical breakdown of Shaq’s free-throw percentage over his career, including its impact on game outcomes and team strategy.*
+
+# The Personality That Struck a Chord
+
+Shaq’s sledgehammer wasn’t just physical—it was emotional. His personality hit with the same force as his dunks. He was loud, playful, and unapologetically himself. Where other stars guarded their image, Shaq let his charisma run wild, endearing him to fans and teammates alike.
+
+He wasn’t just a dominant player; he was a cultural phenomenon. He made people laugh as much as he made them marvel. In a game where strength is often equated with stoicism, Shaq proved that dominance and joy could coexist.
+
+*Placeholder for data: Metrics on fan engagement or teammate feedback during Shaq’s career, illustrating the broader influence of his personality.*
+
+# The Hardest Hits in the Biggest Moments
+
+In the playoffs, where every possession felt like a clash of wills, Shaq swung harder than anyone else. His performances during the Lakers’ three-peat from 2000 to 2002 were a masterclass in force meeting opportunity. He didn’t just dominate games—he decided them.
+
+When the pressure was at its highest, Shaq didn’t waver. He leaned into what he did best, bulldozing through opponents and solidifying his legacy as one of the greatest forces the game has ever seen.
+
+*Placeholder for data: A deep dive into Shaq’s playoff dominance, including peak performances during his championship runs.*
+
+# What Shaq Teaches Us
+
+Shaquille O’Neal’s career isn’t a lesson in perfection; it’s a lesson in leverage. He took what he was best at—power, charisma, authenticity—and amplified it to the point where everything else became secondary. His flaws didn’t diminish his greatness; they made his story richer.
+
+Shaq reminds us that mastery doesn’t come from doing everything well. It comes from doing a few things so exceptionally that they overshadow everything else. Like a sledgehammer, his impact wasn’t just seen—it was felt. And it left the game forever changed
+
+# Sources:
+
+To Be Included...

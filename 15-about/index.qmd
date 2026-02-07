@@ -1,0 +1,107 @@
+---
+title: <span style="color:white">Introduction</span>
+subtitle: "A little bit about myself and why I wrote this book"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/20/2024
+
+title-block-banner: true
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+
+```
+
+In 1997, when I was ten years old, my cousin handed me a basketball and taught me the game. That simple act introduced me to a world of sports, competition, creativity, and resilience that has shaped how I think about life. For years, I spent countless hours on the court and in front of the screen, mesmerized by players who made the extraordinary look effortless.
+
+Some memories of the game are seared into my mind. The 2006 and 2016 NBA Finals weren’t just sporting events—they were epics of resilience and grit. They taught me that in basketball, as in life, no challenge is insurmountable, and no deficit is final.
+
+As adulthood demanded more of my time, my relationship with basketball changed. In 2012, I began my career as a management consultant, and while the game I loved took a backseat, my passion for it never faded. I kept following the NBA as it evolved, witnessing players like Stephen Curry redefine what it means to be great.
+
+But as the years went by, I started seeing basketball differently. My work taught me to uncover patterns, analyze decisions, and tell stories using data. I began applying those skills to the sport, exploring the wealth of data that now surrounds the NBA. What I found were fascinating insights into the decisions, trade-offs, and judgment calls that separate the good from the great.
+
+This book, *Bounce Back*, grew out of that exploration.
+
+At its core, *Bounce Back* is a study of decision-making, resilience, and mastery through the lens of basketball’s greatest players—what I call the “12 disciples” of greatness. Each player has a story to tell, a lesson to share, and a legacy to inspire.
+
+The book is structured into three themes, each capturing a crucial aspect of greatness:
+
+1.  **The Art of Decision-Making**
+
+Greatness begins with decisions. Whether it’s choosing when to take the shot, how to adapt to changing circumstances, or outthinking the opposition, these moments define a career.
+
+-   *LeBron James: The King of Adaptability explores how a superstar evolves and transforms himself again and again in order to remain relevant.*
+
+-   *Michael Jordan: Mr. Clutch delves into his uncanny ability to rise when it mattered most.*
+
+-   *Kevin Durant: The Shape Shifter highlights the courage to reinvent oneself.*
+
+-   *Larry Bird: The Chess Player showcases how basketball IQ can rival athleticism*.
+
+2.  **Leadership and Team Dynamics**
+
+Basketball is a team sport, and no player achieves greatness alone. The best understand how to lead, inspire, and elevate those around them.
+
+-   *Magic Johnson: The Selfless Playmaker reveals the power of putting the team first.*
+
+-   *Tim Duncan: Leading with Consistency examines the quiet leadership that built a dynasty.*
+
+-   *Bill Russell: The Pillar of a Dynasty reflects on the essence of teamwork and sacrifice.*
+
+-   *Stephen Curry: Leading Through Innovation explores how creativity and risk taking reshaped an entire era*.
+
+3.  **Mastery and the Pursuit of Greatness**
+
+Beyond leadership and decision-making lies mastery—the relentless drive to perfect one’s craft and dominate the game.
+
+-   *Kareem Abdul-Jabbar: The Timeless Innovator shows how reinvention fuels longevity.*
+
+-   *Kobe Bryant: The Relentless Pursuit is a story of obsession and dedication.*
+
+-   *Shaquille O’Neal: Dominance Through Strength illustrates how to capitalize on one’s unique gifts.*
+
+-   *Hakeem Olajuwon: Mastery of the Fundamentals reminds us of the beauty in perfecting the basics*.
+
+Through these stories, we’ll explore how the principles that make players great on the court also apply off the court—to business, relationships, and life itself. The lessons go beyond the stat sheets and highlight the decisions, sacrifices, and mindsets that separate the exceptional from the merely good.
+
+In basketball, the score resets every game. Life doesn’t offer that luxury, but the principles of resilience, judgment, and mastery remain universal.
+
+This book is not just for basketball fans. It’s for anyone who’s faced challenges, made tough decisions, or sought to bounce back stronger.
+
+Welcome to *Bounce Back*. Let’s begin.
+
+------------------------------------------------------------------------

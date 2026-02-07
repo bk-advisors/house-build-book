@@ -1,0 +1,7 @@
+"0","# Save the animation
+anim_save(""./assets/lebron_vs_league.gif"", final_lebron_league_chart)
+"
+"2","[38;5;232m`geom_line()`: Each group consists of only one observation.
+[36mℹ[38;5;232m Do you need to adjust the [32mgroup[38;5;232m aesthetic?[39m"
+"2","[38;5;232m`geom_line()`: Each group consists of only one observation.
+[36mℹ[38;5;232m Do you need to adjust the [32mgroup[38;5;232m aesthetic?[39m"

@@ -1,0 +1,136 @@
+---
+title: <span style="color:white">The Skyhook and the Infinite Game</span>
+subtitle: "How Kareem Abdul-Jabbar built a legacy by mastering the unmasterable"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/17/2024
+
+title-block-banner: ./assets/kareem.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+```
+
+# Mastery of a Shot
+
+At the heart of every great achievement is a simple truth: mastering one thing, done better than anyone else, can build something timeless. Kareem Abdul-Jabbar’s story is proof that innovation doesn’t have to look flashy, and consistency doesn’t have to shout to be heard.
+
+It’s a quiet kind of genius, like water smoothing the edges of a rock—slow, deliberate, inevitable.
+
+Kareem played 20 seasons in the NBA. His career stretched so far that by the end of it, teammates who once idolized him as kids were now feeding him passes in the paint. But it’s not just that he played for 20 years—it’s that he dominated for 20 years. At age 24, Kareem led the league in scoring. At age 38, he was still scoring 23 points a game, casually gliding up and down the court against players nearly half his age.
+
+The reason? A shot no one could stop.
+
+# The Shot That Couldn’t Be Stopped
+
+If you want to understand why Kareem’s Skyhook was so unstoppable, you need to watch it the way you watch a magician perform a trick. It looked too simple to work. One step across the lane. A high-arcing flick of the wrist. The ball floated through the air and dropped through the net like it had been placed there. Every time.
+
+No player has had a shot so dependable, so unique, and so untouchable. Kareem didn’t invent the hook shot—others used it before him. But he perfected it. He shot it with a release so high that defenders felt like they were trying to block the moon. His 7’2” frame didn’t hurt either.
+
+Here’s the thing about the Skyhook:
+
+-   It worked in every era. When defenses got bigger, it worked. When defenders got smarter, it worked.
+
+-   It was efficient. Kareem’s field goal percentage—often in the 55% range—was lightyears ahead of his peers.
+
+-   It was reliable. When his athleticism began to wane in his late 30s, the Skyhook didn’t age a day.
+
+*Placeholder for Analysis:*
+
+*Shot charts show the Skyhook’s shooting percentage compared to other high-percentage shots, like dunks or layups. Kareem’s Skyhook wasn’t just effective; it was economical, like a move designed to last a thousand lifetimes.*
+
+# The Longevity of Greatness
+
+Most careers are like fireworks: bright, fast, and over. Kareem’s was like a lighthouse. It shined for decades, steady and unwavering, no matter the storm.
+
+By his late 30s, Kareem wasn’t supposed to be this good. Athletes slow down, bodies wear out, and younger players take over. But while others tried to rely on raw athleticism, Kareem relied on craft.
+
+He was a pioneer of longevity. Long before it was trendy for athletes to obsess over recovery, yoga, and nutrition, Kareem was doing it. Decades later, LeBron James, Tom Brady, and Serena Williams would build careers on the same principles Kareem lived by: consistency, preparation, and the humility to adapt.
+
+*Placeholder for Analysis:*
+
+*Data shows Kareem’s production—points per game, efficiency ratings, and win shares—in his late 30s and 40s, compared to legends like Jordan, Duncan, and LeBron. Kareem didn’t just decline slower than others—he didn’t decline at all.*
+
+# Leadership You Don’t Hear, But You See
+
+Kareem was not a loud leader. He didn’t shout at teammates or throw fists at lockers. He led the way quiet people do: by example. Show up. Do the work. Repeat.
+
+Teammates knew Kareem as steady. He didn’t panic. He didn’t grandstand. In the middle of championship runs, his presence alone felt like a guarantee: We’ll be fine. I’ve been here before.
+
+What he lacked in vocal fireworks, he made up for in quiet certainty. Leadership, after all, isn’t about how many words you say. It’s about how many people believe you can carry them through the hard parts. And Kareem could.
+
+# Innovation That Stood the Test of Time
+
+We think of innovation as invention—something new that no one’s ever seen before. But sometimes, innovation is perfecting something old. Kareem didn’t need a new move. He just needed a move that no one else could use.
+
+There’s a lesson in that. If you want to stand out, don’t reinvent the wheel. Just make sure your wheel is stronger, faster, and smoother than everyone else’s.
+
+Kareem’s Skyhook didn’t just score points. It scored points for 20 years.
+
+*Placeholder for Analysis:*
+
+*Comparisons of how defensive schemes evolved in the NBA and how Kareem’s Skyhook remained effective regardless of the era. Innovation, when done right, is timeless.*
+
+# The Infinite Game
+
+Kareem Abdul-Jabbar’s greatness didn’t happen overnight. It wasn’t a product of luck, or one magical season, or one championship. It was the slow accumulation of skill, refinement, and discipline over decades. He kept playing the game long after others quit, and he played it better than anyone.
+
+Most players play for stats. Some play for championships. Kareem played a game beyond all of that. He built a legacy that will outlast him. He built a story worth telling.
+
+The Skyhook may be a basketball move, but the lesson it teaches is universal:
+
+-   Innovate, but don’t overcomplicate.
+
+-   Master one thing, and master it completely.
+
+-   Stay consistent. Stay relevant. Stay timeless.
+
+Kareem played basketball, but he was never playing for today. He was playing for forever.
+
+And forever is what he got.
+
+# Closing Thought
+
+Kareem Abdul-Jabbar didn’t leave basketball. Basketball left Kareem. And when it did, he left something behind that no one has matched since—a signature shot, a career, and a legacy built to last.
+
+When you’re playing the infinite game, that’s all that really matters.
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

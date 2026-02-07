@@ -1,0 +1,80 @@
+---
+title: <span style="color:white">Chapter 3 - Resources</span>
+subtitle: "'Time is the most limited resource we have, so if we don't actively manage our time, we won't be able to effectively manage any other aspect of our lives or work effectively.'- Peter Drucker"
+
+author: 
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 01/27/2024
+
+title-block-banner: true
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+It’s a common story. Someone begins building their dream home with grand ambitions but quickly runs into roadblocks. Suddenly, each phase of the project is taking twice as long, costing three times as much and the workers don’t seem to know what they are doing. They did not anticipate how complex managing people, time and money could be. You don’t want that to be your story.
+
+Building a house is not just about materials and blueprints. It's a project that requires careful planning of three critical resources: people, time and money. If you neglect any of these elements, your project will likely face delays, increased costs or unfinished work. Ask any Ugandan about how long it has taken to build Karuma Hydro-electric dam and you will get the point.
+
+One of the biggest mistakes people make when starting a construction project is underestimating the resource requirements. They may budget only for materials and forget that skilled labor costs are significant. Or they might hire the wrong people, leading to delays and substandard work. Often, they don’t factor in unexpected delays—like bad weather or supply shortages—that stretch out the timeline and push up costs.
+
+If you don’t plan for people, time and money in a coordinated way, your project could quickly get out of control and the home you have been dreaming about will start to feel like a burden.
+
+Now, let’s break down each resource—people, time and money—and explore the costs and benefits of good planning in each area.
+
+## People: The right team makes all the difference
+
+Every successful project begins with assembling a solid team. The key people you’ll need include an architect, contractors, skilled laborers like masons, plumbers and electricians and also potentially, a project manager. If you hire based on convenience or low prices without thoroughly vetting the team, you risk poor workmanship or outright fraud. For instance, hiring unqualified laborers may seem like a money-saver at first, but you might end up paying much more for repairs down the line.
+
+My friend Vincent once told me of a neighbor of his who hired an inexpensive builder that offered him a "too good to be true" quote. A few months into the project, the walls were not level, and several cracks appeared. He had to redo parts of the structure leading to unexpected costs and extended timelines. A better choice would have been to pay slightly more upfront for skilled, reliable workers.
+
+By consulting professionals and hiring a well-vetted team, you ensure that the quality of work is high and that the project stays on track. It may cost more upfront, but it saves you in the long run by avoiding expensive repairs or delays.
+
+## Time: Stay realistic about timelines
+
+Many people underestimate how long it takes to complete a construction project. They may set overly ambitious deadlines and then get frustrated when those deadlines are not met. Factors like bad weather, material shortages and labor issues can easily add weeks—or even months—to your timeline. If you don’t plan for such delays, you could end up stretching your budget as you pay for labor and equipment that’s not being utilized.
+
+When Vincent was building his first house, he hoped to finish in one year, and then move-in. However, the rainy season caused multiple delays and it ended up taking nearly two years. Luckily, he had accounted for delays in his planning. If he hadn’t, he would have gone over budget paying laborers for additional time and dealing with the higher cost of materials over a longer period.
+
+By setting realistic timelines and planning for potential delays, you avoid frustration and keep your project on track. It’s better to estimate a longer time frame and finish early than to underestimate and face constant pressure.
+
+## Money: Budget with Contingencies
+
+When it comes to money, one of the most common mistakes is underestimating how much a project will cost. You might only budget for materials and labor without considering hidden costs such as permits, transport, or inflation. Another trap is failing to build in a contingency fund—an emergency reserve of at least 10-20% of your budget to cover unforeseen expenses.
+
+During COVID-19 for instance, the price of cement skyrocketed in Uganda, leaving many builders stranded. Those who had planned for cost fluctuations by including a contingency fund were able to complete their projects. Those who hadn’t were forced to pause construction until they could gather more funds which often resulted in additional expenses.
+
+Budgeting thoroughly—including costs for materials, labor, permits and a contingency fund—ensures that you don’t run out of money halfway through your project. You will have peace of mind knowing that any unexpected expenses won’t derail your plans.
+
+## A well-coordinated plan
+
+The solution to avoiding these common pitfalls is simple but powerful: **Plan your resources wisely**.
+
+Before you start building, sit down and create a detailed plan that outlines the people you will need, the budget you have and a realistic timeline. Then, consider worst-case scenarios and build in contingencies for each resource—this includes having a reserve fund for unexpected costs, an extra few months for delays and a trusted team that can handle any obstacles.
+
+By putting in the effort to plan for people, time and money from the outset, you are setting yourself up for success. Your dream home will not only be built, but it will be built within your means, on time and to the quality you expect.
+
+## Practical Tips – Chapter 3
+
+-   **Assemble a solid team:** Take your time hiring the right people. Check references, look at past work and ensure they are skilled for the task.
+
+-   **Be realistic about timelines:** Research the typical construction timelines for your area and add extra time for bad weather, material delays, and other unforeseen events.
+
+-   **Create a detailed budget/bills of quantities:** Include all foreseeable costs, from permits to transport. Add a contingency of 10-20% for unexpected expenses.
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

@@ -1,0 +1,82 @@
+---
+title: <span style="color:white">Chapter 4 - Savings</span>
+subtitle: "'Do not save what is left after spending, but spend what is left after saving.' – Warren Buffett."
+
+author: 
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 01/31/2024
+
+title-block-banner: true
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+You have finally found the perfect plot of land. The architectural plans are ready and you can already picture yourself standing on the verandah of your future home. But there’s one hurdle: the money. Many people with dreams of building a house are unsure where to start when it comes to financing. One of the safest but slowest methods is to finance your house through savings.
+
+For most people, saving for a house can feel like an impossible dream. With everyday expenses, inflation and unexpected life events, it’s difficult to set aside a significant amount of money. Not to mention, building a house requires a large sum and saving enough for materials, labor and other costs can take years— sometimes decades.
+
+In the Ugandan context, where many families rely on informal incomes, putting away a fixed amount each month may seem unrealistic. The challenge becomes balancing the present needs—like school fees, medical expenses and daily living costs—with the future goal of building your own home. For many, the patience and discipline required to save this much can be overwhelming and it can be tempting to dip your hand into the proverbial savings jar, before the house is finished.
+
+Let’s explore the pros and cons of financing through savings.
+
+## No Debt, No Interest
+
+The most obvious advantage of financing through savings is that you avoid taking on any debt. This means no monthly repayments, no interest accumulating and no worrying about defaulting on loans. Once the house is completed, it’s entirely yours and you won’t have the lingering stress of financial obligations hanging over you. This is a great feeling!
+
+My Uncle Mo is a frugal and meticulous man. He got his nickname, “Uncle Money” because he’s always been able to make every cent count.
+
+Before he started his building journey, he saved diligently for 12 years, and by the time he started construction, he had enough money to cover the entire cost of the house. He built slowly but without financial stress. Today, his home is a debt-free haven where he can comfortably raise his family without worrying about repayments or being at the mercy of fluctuating interest rates.
+
+## The Time Factor
+
+The biggest downside to saving for your house is the amount of time it takes. Depending on your income and expenses, it could take you several years to save up enough to cover all your costs. And during this period, construction costs could rise, meaning that the amount you initially aimed to save may no longer be sufficient. Inflation and the rising cost of materials in Uganda can chip away at your savings, leaving you scrambling to find additional funds.
+
+Uncle Mo once told me of a friend of his who tried to follow his approach and started saving in 2015, hoping to build a 3-bedroom house. By 2022, when he was finally ready to start, the price of cement and steel had increased significantly and his savings weren’t enough. He had to either reduce the size of his house or delay further while saving more.
+
+## Flexibility in stages
+
+One of the upsides to using savings is that it allows for flexibility. You can build your house in stages as you accumulate funds. For instance, you can start by constructing the foundation and then pause while saving up for the next phase. This method is common in Uganda, where people may spend years constructing their homes, adding to it bit by bit as their financial situation allows.
+
+Uncle Mo once told me another story of a man who built his house over eight years. He started with the foundation in 2010, built the walls in 2012, and finally added the roof in 2015. By 2018, he was moving into a completed house that he fully owned without owing anyone a shilling.
+
+## Potential for inflation and material shortages
+
+The downside of building in stages is that construction costs can increase in between phases. As seen in the examples above, delays due to saving can leave you vulnerable to inflation or shortages of materials, which may end up pushing your total costs higher than originally anticipated.
+
+During the COVID-19 pandemic, Uganda and the entire world experienced disruptions in the supply chain, leading to a significant rise in construction materials like iron sheets and cement. Those who were mid-way through building their houses found that they needed to adjust their budgets to cope with the increased prices.
+
+## Slow and steady wins the race
+
+The key to successfully financing your house through savings is patience and discipline. While it may take longer to gather the funds, the reward of having a debt-free home is invaluable. To stay on track, you will need to set realistic savings goals and stick to them. Opening a dedicated savings account or using a SACCO (Savings and Credit Cooperative Organization) can help you avoid the temptation of dipping into your house fund for other expenses.
+
+If you plan to build in stages, be strategic. Research and forecast potential cost increases and factor them into your savings plan. Consider working with a contractor who understands that you will be building over time and can offer advice on how to minimize disruptions between phases.
+
+Ultimately, financing through savings may require more time but it ensures that when you finally complete your dream home, it will be fully yours—free from debt, interest and the anxiety of monthly repayments.
+
+## Practical Tips – Chapter 4:
+
+-   **Create a dedicated savings plan:** Set aside a fixed amount each month specifically for your house fund and avoid using it for other expenses. Use savings accounts or SACCOs to keep your funds secure.
+
+-   **Build in phases:** If saving for the entire project seems daunting, consider building your house in phases as you accumulate more funds. This allows flexibility in your budget and timeline.
+
+-   **Monitor construction costs:** Keep an eye on market prices for materials. If possible, buy in bulk during periods when prices are lower to avoid inflation eating into your savings.
+
+Financing through savings might not be the quickest path, but it’s one of the safest ways to build your house without the burden of debt. Slow and steady, you will achieve your goal—on your terms
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

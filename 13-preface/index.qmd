@@ -1,0 +1,121 @@
+---
+title: <span style="color:white">The Entrepreneurial 3-Pointer</span>
+subtitle: "Why starting a business is like shooting from deep - risky, unconventional, and the most rewarding move in the game"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/21/2024
+
+title-block-banner: true
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+
+```
+
+# Stepping beyond the arc of conventional wisdom
+
+The three-point shot didn’t always dominate basketball. There was a time when it was seen as a gimmick—something reserved for desperation or novelty. In the early days of the NBA, the game revolved around high-percentage, low-risk plays near the basket. The 3-pointer? Too far, too uncertain, and too bold.
+
+Fast forward a few decades, and Stephen Curry redefined what the 3-pointer means. He didn’t just master the art of shooting from distance; he made it the centerpiece of a strategy that disrupted the sport, creating a ripple effect that changed how teams, players, and even fans see the game.
+
+Entrepreneurship works in much the same way. For a long time, the default career path was steady and predictable—like taking layups and mid-range jumpers. Starting a business? That was the 3-point shot of career moves: risky, unconventional, and not for everyone. But like Curry, those who dare to step beyond the arc, take the risk, and refine their craft can achieve rewards that completely redefine the game.
+
+# Risk is the entry fee
+
+When Curry started taking (and making) 3-pointers at unprecedented levels, he wasn’t just shooting a basketball—he was challenging convention. Every time he stepped back beyond the arc, he embraced uncertainty. Some nights, the shots didn’t fall. But when they did, the payoff was enormous.
+
+*Placeholder Analysis:*
+
+*Graph or chart of Curry’s 3-point attempts vs. makes over several seasons, showing the increasing volume of attempts and corresponding efficiency.*
+
+*Startup failure rates vs. long-term success statistics, illustrating how risk is a prerequisite for potential high reward in entrepreneurship.*
+
+# The hidden work behind big moments
+
+Watch Curry sink a deep three at a clutch moment, and it looks effortless. What you don’t see is the lifetime of preparation that made it possible: thousands of hours spent perfecting his mechanics, studying defenders, and visualizing shots that didn’t exist yet.
+
+*Placeholder Analysis:*
+
+*Quantify Curry’s practice routine: Include numbers like shots taken per practice session, hours spent analyzing film, or other training metrics.*
+
+*Entrepreneurial comparison: Case study of a successful entrepreneur (e.g., hours spent prototyping or iterating a product) to show the invisible work behind visible success.*
+
+# Resilience beats perfection
+
+Stephen Curry misses more 3-pointers than he makes. That’s not a knock against him—it’s just math. The best 3-point shooters in NBA history still miss more than half their attempts. But they keep shooting because they know the reward of the next make far outweighs the cost of the last miss.
+
+*Placeholder Analysis:*
+
+*Curry’s shooting percentage over key games or playoff runs, emphasizing resilience during slumps. Include data on how he rebounds from poor shooting nights.*
+
+*Entrepreneurial parallel: Highlight the failure-to-success ratio of startups (e.g., percentage of startups that fail in their first year vs. founders who succeed in later ventures).*
+
+# Data, strategy, and redefining the rules
+
+Curry’s success isn’t just about talent. It’s about leveraging data and redefining the rules of the game. The Warriors didn’t just give him the green light to shoot; they built an entire system around his ability to make 3-pointers, informed by analytics that proved the shot’s efficiency. Curry wasn’t just playing the game—he was changing how it’s played.
+
+*Placeholder Analysis:*
+
+*Analysis of the Warriors’ offensive efficiency pre- and post-Curry, showing how the 3-point revolution reshaped their strategy.*
+
+*Entrepreneurship comparison: Use examples of how data-driven businesses (e.g., Amazon’s use of data to optimize logistics or Netflix’s use of analytics for content creation) disrupted their industries.*
+
+# The legacy of risk takers
+
+Today, every young basketball player dreams of shooting like Curry. He turned what was once considered risky into a model for success. That’s what entrepreneurs do too. They take risks not just to make money but to create something lasting: a company, a product, or an idea that inspires others to dream bigger.
+
+*Placeholder Analysis:*
+
+*Curry’s influence on shooting trends league-wide, such as a chart showing how 3-point attempts have increased across the NBA since Curry’s rise.*
+
+*Entrepreneurial legacy: Examples of iconic businesses or innovations (e.g., Apple, Tesla, or local startups) that created lasting industry impact.*
+
+# The Takeaway
+
+The 3-pointer and entrepreneurship are both about doing what others think can’t be done. They require boldness, preparation, resilience, and a willingness to look at the game differently. And when they work, they don’t just add points to the scoreboard—they change the way the game is played.
+
+*Placeholder Analysis:*
+
+*Curry’s career milestones: Visual timeline of Curry’s key achievements and records to illustrate how risk and strategy translate to long-term success.*
+
+*Entrepreneurial timeline: Case study of a startup founder’s journey from idea to success, showing parallels to Curry’s career.*
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...
