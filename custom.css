@@ -1,0 +1,28 @@
+/* Additional custom CSS for the book */
+
+/* Author block styling */
+.quarto-title-meta {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* Image captions */
+figcaption {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Blockquote styling for stories/anecdotes */
+blockquote {
+  border-left: 4px solid #69b3a2;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+}
+
+/* Responsive images */
+.quarto-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
